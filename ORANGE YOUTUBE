@@ -1,0 +1,851 @@
+<html lang="en"><head>
+
+	<!-- Title and Meta Tags Begins -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta charset="utf-8">
+	<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+	<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+	<title>Geek App</title>    	
+	<!-- Title and Meta Tags Ends -->
+	
+	<!-- Google Font Begins -->
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,800italic,700,300italic,700italic,400italic" rel="stylesheet" type="text/css">
+	<!-- Google Font Ends -->
+	
+	<!-- CSS Begins-->	
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">	
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="css/carousel.css" rel="stylesheet" type="text/css">
+	<link href="css/animate.min.css" rel="stylesheet" type="text/css">	
+	<link href="css/YTPlayer.css" rel="stylesheet" type="text/css">
+	<link href="css/simple-line-icons.css" rel="stylesheet" type="text/css">
+	<!-- Main Style -->
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link href="css/responsive.css" rel="stylesheet" type="text/css">	
+	<!-- Color Panel -->
+    <link href="css/color-panel.css" rel="stylesheet" type="text/css">
+		
+</head>
+<body>
+
+	<!-- Page Loader -->
+	<div class="pageloader" style="display: none;"></div>
+	
+	<!-- Wrapper Begins -->
+	<div id="wrapper" class="wrapper-class">
+		<!-- Header Begins -->
+		<div id="header" class="header-section">
+			<!-- Sticky Header Begins -->
+			<div id="sticky-menu-sticky-wrapper" class="sticky-wrapper" style="height: 69px;"><div id="sticky-menu" class="sticky-navigation">
+				<div class="logo-container">
+					<div class="container">
+						<div class="row">
+						
+							<!-- Logo Begins -->
+							<div class="col-md-2 logo">
+								<a href="#" title="GeekApp"><img class="img-responsive" src="images/logo.png" alt="GeekApp"></a>
+							</div>
+							<!-- Logo Ends -->
+							
+							<!-- Navigation Menu Begins -->
+							<div id="navigation" class="col-md-8 navbar top-navbar no-padding">
+							
+								<!-- Mobile Nav Toggle Begins -->
+								<div class="navbar-header nav-respons">
+									<button data-target=".bs-navbar-collapse" data-toggle="collapse" type="button" class="navbar-toggle">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+								</div><!-- Mobile Nav Toggle Ends -->
+								
+								<!-- Menu Begins -->
+								<nav id="topnav" role="navigation" class="collapse navbar-collapse bs-navbar-collapse no-padding">
+									<ul class="nav navbar-nav navbar-right uppercase">
+										<li><a href="#about" class="scroll">Больше</a></li>
+										<li><a href="#features" class="scroll">Видео</a></li>
+										<li><a href="#reviews" class="scroll">Картинки</a></li>
+                                        <li><a href="#services" class="scroll">Сервисы</a></li>
+                                        <li><a href="#pricing" class="scroll">Цена на подписку</a></li>
+										<li><a href="#video" class="scroll">Демо ролики</a></li>
+										<li class="active"><a href="#contact-us" class="scroll">Контактные данные</a></li>
+									</ul>
+								</nav><!-- Menu Ends -->
+							</div><!-- Navigation Menu Ends -->
+							
+							<!-- Social Links Begins -->
+							<div class="col-md-2">
+								<ul class="top-social-icon">
+									<li><a href="#" class="gk-facebook"><i class="fa fa-facebook"></i></a></li>
+									<li><a href="#" class="gk-twitter"><i class="fa fa-twitter"></i></a></li>
+								</ul>
+							</div>
+							<!-- Social Links Ends -->
+							
+						</div>
+					</div>
+				</div>
+			</div></div><!-- Sticky Header Ends -->
+			<!-- Banner Section Begins -->
+			<div class="banner-bg">				
+				<div id="about" class="banner-section container">
+					<div class="row">
+					
+						<!-- Left Banner Text Begins -->					
+						<div class="col-md-5 left-banner-text animated fadeInLeft visible" data-animation="fadeInLeft" data-animation-delay="500">
+							<!-- Banner Title -->
+							<h1 class="text-uppercase"><span class="text-extrabold">ORANGE_YOUTUBE</span></h1>
+							<!-- Banner Content -->
+							<div class="row">
+								<div class="col-md-10">
+									<p class="banner-text">ORANGE YOUTUBE.  <span class="extrabold-italic">Тот же самый ютуб, только для взрослых.</span></p>
+								</div>
+							</div>
+							<!-- Banner Button -->
+							<div class="banner-button">								
+								<a href="#" class="btn gk-btn white-btn gk-btn-margin" role="button">Узнать Больше</a>
+								<a href="#" class="btn gk-btn red-btn" role="button"><i class="fa fa-cloud-download"></i>Приложение</a>								
+							</div>
+							<!-- Banner Nav Shape -->
+							<div class="row triangle-shape banner-nav">
+								<div class="col-sm-12">
+									<a href="#features" class="banner-triangle scroll color-white"><i class="flaticon flaticon-arrow351 gk-triangle-bigsharp"></i></a>																		
+								</div>								
+							</div>
+						</div><!-- Left Banner Text Ends -->
+						<!-- Right Banner Image Begins -->
+						<div class="col-md-7 right-banner-image animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="500">
+							<div class="row">
+								<!-- Banner Counter Info Begins -->
+								<div class="col-sm-5 banner-image-info">
+									<!-- Row 1 -->
+									<div class="row">
+										<div class="col-xs-12 banner-left-margin">
+											<div class="banner-info col-xs-6 text-right text-uppercase">
+												<div class="count-number" data-count="6249"><span class="counter text-bold">10000 </span></div>Просмотров</div>
+											<div class="banner-info-right col-xs-6 no-padding">
+												<span class="close-brackets">}</span> <i class=""></i>
+											</div>
+										</div>
+									</div>
+									<!-- Row 2 -->
+									<div class="row">
+										<div class="col-xs-12 banner-left-margin">
+											<div class="banner-info col-xs-6 text-right text-uppercase">
+												<div class="count-number" data-count="238"><span class="counter text-bold">100</span></div>Роликов</div>
+											<div class="banner-info-right col-xs-6 no-padding">
+												<span class="close-brackets">}</span> <i class=""></i>
+											</div>	
+										</div>
+									</div>
+									<!-- Row 3 -->
+									<div class="row">
+										<div class="col-xs-12 banner-left-margin">
+											<div class="banner-info col-xs-6 text-right text-uppercase">
+												<div class="count-number" data-count="1027"><span class="counter text-bold">2000</span></div>Картинок</div>
+											<div class="banner-info-right col-xs-6 no-padding">
+												<span class="close-brackets">}</span> <i class=""></i>
+											</div>										
+										</div>
+									</div>
+								</div><!-- Banner Counter Info Ends -->
+								<!-- Banner Image -->
+								<div class="col-sm-7">
+									<img class="img-responsive pull-right" src="https://assets-global.website-files.com/616e938268c8f0a92cb2b540/617806fb52d751a1fab3898a_youtube%20banner%20size%20guide.jpg" alt="Iphone">
+								</div>
+							</div>
+						</div> <!-- Right Banner Image Begins -->
+						
+					</div>
+				</div>
+			</div><!-- Banner Section Ends -->
+		</div><!-- Header Ends -->
+		
+		<!-- Layout Begins -->
+					<!-- Features Section Begins -->
+					<div id="features" class="features-section section-padding">
+						<div class="container relative">
+							<div class="row">
+								<!-- Features Left Info Begins -->
+								<div class="col-md-4 features-left-info animated fadeInLeft visible" data-animation="fadeInLeft" data-animation-delay="500">
+									<!-- Title -->
+									<h3 class="section-msg1 color-grey text-uppercase"><span class="text-extrabold">Лучшие картинки<br>Лучшее качество</span> <br>На нашем сайте</h3>
+									<!-- Content -->
+									<p><br></p>
+									<!-- Shape Down Arrow -->	
+									<p class="color-grey"><i class="flaticon flaticon-yield gk-triangle-medium"></i></p>
+									<!-- List Elements -->
+									<ul class="list-unstyled gk-list color-grey">
+										<li class="text-bold"><span class="simple-icon icon-check"></span>Легкоё в использовании</li>
+										<li class="text-bold"><span class="simple-icon icon-check"></span>Постоянная связь с админами</li>
+										<li class="text-bold"><span class="simple-icon icon-check"></span>Нас не забанят</li>
+										<li class="text-bold no-border"><span class="simple-icon icon-check"></span>Пиксельные картинки</li>
+									</ul>									
+								</div><!-- Features Left Info Ends -->
+								<!-- Features Right Info Begins -->
+								<div class="col-md-8 features-right-info animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="500">
+									<!-- Shape Pointer -->	
+									<div class="gk-pointer-features gk-right-arrow animated fadeInLeftBig visible" data-animation="fadeInLeftBig" data-animation-delay="1200">
+										<img src="images/right-arrow-icon.png" alt="Pointer" class="img-responsive">
+									</div>
+									<!-- Title -->
+									<h2 class="section-title color-grey"><span class="text-extrabold"></span>Качественные видео</h2>
+									<!-- Shape Down Arrow -->
+									<p class="text-center color-grey"><i class="flaticon flaticon-yield gk-triangle-medium"></i></p>
+									<!-- Description -->
+									<h3 class="section-msg text-center color-grey">Лучшее качество, с знакомыми вашими актерами</h3>
+									
+									<div class="container features-right-grid">
+										<!-- First Row Begins -->
+										<div class="row">
+											<!-- Column 1 Begins -->
+											<div class="col-sm-6 text-right">
+												<div class="features-grid gk-divider">
+													<!-- Icon -->
+													<span class="simple-icon icon-pencil color-greenalt"></span>
+													<!-- Title -->
+													<h4 class="text-uppercase grid-title text-bold color-grey">Лучшие видеорежисеры</h4>
+													<!-- Content -->
+													<p></p>
+												</div>
+												<!-- Horizontal Line -->
+												<hr class="features-line">
+											</div><!-- Column 1 Ends -->
+											<!-- Column 2 Begins -->
+											<div class="col-sm-6">
+												<div class="features-grid">
+													<!-- Icon -->											
+													<span class="simple-icon icon-magnifier color-greenalt"></span>
+													<!-- Title -->
+													<h4 class="text-uppercase grid-title text-bold color-grey">Доступ без VPN</h4>
+													<!-- Content -->
+													<p></p>
+												</div>
+												<!-- Horizontal Line -->
+												<hr class="features-line">
+											</div><!-- Column 2 Ends -->
+										</div><!-- First Row Ends -->
+										
+										<!-- Second Row Begins -->
+										<div class="row">
+											<!-- Column 1 Begins -->
+											<div class="col-sm-6 text-right">
+												<div class="features-grid gk-divider">
+													<!-- Icon -->
+													<span class="simple-icon icon-camera color-greenalt"></span>
+													<!-- Title -->
+													<h4 class="text-uppercase grid-title text-bold color-grey">Поделитесь с нами</h4>
+													<!-- Content -->
+													<p></p>
+												</div>												
+											</div><!-- Column 1 Ends -->
+											<!-- Column 2 Begins -->
+											<div class="col-sm-6">
+												<div class="features-grid">
+													<!-- Icon -->
+													<span class="simple-icon icon-paper-clip color-greenalt"></span>
+													<!-- Title -->
+													<h4 class="text-uppercase grid-title text-bold color-grey">Фаловая система</h4>
+													<!-- Content -->
+													<p></p>
+												</div>												
+											</div><!-- Column 2 Ends -->
+										</div><!-- Second Row Ends -->
+									</div>									
+								</div><!-- Features Right Info Ends -->
+							</div>
+							<!-- Features Image Row Begins -->
+							<div class="row">
+								<div class="col-sm-12 ipad-shot-wrapper animated fadeIn visible" data-animation="fadeIn" data-animation-delay="600">
+									<img src="" class="img-responsive" alt="IPad Shot">
+								</div>
+							</div><!-- Features Image Row Ends -->
+						</div>
+					</div>
+					<!-- Features Section Ends -->
+					
+					<!-- Reviews Section Begins -->
+					<div id="reviews" class="reviews-section section-padding">
+						<div class="container">
+							<!-- Reviews Top Row -->
+							<div class="row">
+								<div class="col-md-7 col-lg-6 app-reviews animated fadeInLeft visible" data-animation="fadeInLeft" data-animation-delay="500">
+									<!-- Title -->
+									<h2 class="section-title color-grey"><span class="text-extrabold"></span>ORANGE YOUTUBE</h2>
+									<!-- Shape Down Arrow -->
+									<p class="color-grey text-center"><i class="flaticon flaticon-yield gk-triangle-medium"></i></p>
+									<!-- Description -->
+									<h3 class="section-msg text-center color-grey">ИСПОЛЬЗУЙ БЕЗ ПРОБЛЕМ</h3>
+																
+							</div>
+							<!-- Reviews Slider Row Begins-->
+							<div class="row">
+								<div class="col-xs-12 animated fadeInUp visible" data-animation="fadeInUp" data-animation-delay="800">	
+								<!-- Shape Pointer -->
+									<div class="gk-pointer-features gk-left-arrow"><img src="images/left-arrow-icon.png" alt="Pointer" class="img-responsive"></div>
+									<!-- Reviews Container Begins -->
+									<div id="reviews-slider" class="carousel slide reviews-slider-section" data-ride="carousel">
+															
+					
+										<!-- Slides Inner Begins -->
+										<div class="carousel-inner">
+							
+											<!-- Item 1 -->
+											<div class="item container">
+												<div class="row item-grid">
+												
+													<div class="col-lg-6 col-md-6 reviews-info color-grey">
+														<!-- Content -->
+														<div class="reviews-msg">
+															<p class="light-italic info-margin">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta massa sit amet magna luctus euismod. Mauris non malesuada nunc. <span class="extrabold-italic">Lorem ipsum dolor sit amet.</span></p>
+														</div>
+														<!-- Author Info -->
+														<div class="reviews-author">
+															<p class="text-bold text-uppercase author-margin">ORANGE INC</p>
+															<p class="text-bold text-uppercase author-sub">Abc INC</p>
+														</div>
+													</div>
+													
+													<!-- Image -->
+													<div class="col-lg-6 col-md-5 reviews-image">
+														<div class="main-reviews-image container">
+															<div class="row">
+																<img class="img-responsive img-circle" src="data:image/jpeg;base64,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" width="330" height="330" alt="Jennifer">
+															</div>
+														</div>														
+													</div>
+													
+												</div>
+											</div>
+						
+											<!-- Item 2 -->
+											<div class="item container active">
+												<div class="row item-grid">
+												
+													<div class="col-lg-6 col-md-6 reviews-info color-grey">
+														<!-- Content -->
+														<div class="reviews-msg">
+															<p class="light-italic info-margin">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta massa sit amet magna luctus euismod. Mauris non malesuada nunc. <span class="extrabold-italic">Lorem ipsum dolor sit amet.</span></p>
+														</div>
+														<!-- Author Info -->
+														<div class="reviews-author">
+															<p class="text-bold text-uppercase author-margin">Jennifer Lopez</p>
+															<p class="text-bold text-uppercase author-sub">ORANGE INC</p>
+														</div>
+													</div>
+													
+													<!-- Image -->
+													<div class="col-lg-6 col-md-5 reviews-image">
+														<div class="main-reviews-image container">
+															<div class="row">
+																<img class="img-responsive img-circle" src="https://spng.pngfind.com/pngs/s/344-3442953_orange-youtube-logo-png-transparent-png.png" width="330" height="330" alt="Jennifer">
+															</div>
+														</div>
+													</div>												
+													
+												</div>
+											</div>
+											
+											<!-- Item 3 -->
+											<div class="item container">
+												<div class="row item-grid">
+												
+													<div class="col-lg-6 col-md-6 reviews-info color-grey">
+														<!-- Content -->
+														<div class="reviews-msg">												
+															<p class="light-italic info-margin">МЫ ВСЕГДА РАБОТАЕМ БЕЗ ПЕРЕБОЕВ<span class="extrabold-italic"></span></p>
+														</div>
+														<!-- Author Info -->
+														<div class="reviews-author">
+															<p class="text-bold text-uppercase author-margin">ORANGE INC</p>
+															<p class="text-bold text-uppercase author-sub"></p>
+														</div>
+													</div>		
+													
+													<!-- Image -->
+													<div class="col-lg-6 col-md-5 reviews-image">													
+														<div class="main-reviews-image container">
+															<div class="row">
+																<img class="img-responsive img-circle" src="https://iconsplace.com/wp-content/uploads/_icons/ffa500/256/png/youtube-2-icon-12-256.png" width="330" height="330" alt="Jennifer">
+															</div>
+														</div>
+													</div>											
+													
+												</div>
+											</div>				
+							
+										</div><!-- Slider Inner Ends -->
+									</div>
+									<!-- Reviews Container Ends -->
+									<!-- Indicators Begins -->
+										<div class="reviews-indicators">
+											<a class="gk-slide-left" href="#reviews-slider" data-slide="prev">
+												<i class="fa fa-chevron-left color-grey"></i> 
+											</a>
+											<a class="gk-slide-right" href="#reviews-slider" data-slide="next">
+												<i class="fa fa-chevron-right color-grey"></i>
+											</a>
+										</div><!-- Indicators Ends -->	
+									
+								</div>								
+							</div><!-- Reviews Slider Row Ends -->
+						</div>
+					</div>
+				</div>
+					<!-- Reviews Section Ends -->
+					
+					<!-- Services Section Begins -->
+					<div id="services" class="app-services-section section-padding">
+						<div class="container relative">
+							<!-- Services Top Row Begins -->
+							<div class="row">
+								<!-- Services Right Info Begins -->
+								<div class="col-xs-12 animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="500">
+									<!-- Title -->
+									<h2 class="section-title color-white"><span class="text-extrabold">ДРУШИЕ СЕРВИСЫ</span></h2>
+									<!-- Shape Down Arrow -->									
+									<p class="text-center color-white"><i class="flaticon flaticon-yield gk-triangle-medium"></i></p>	
+									<!-- Description -->								
+									<h3 class="section-msg text-center color-white">ORANGE YOUTUBE лучший сервис при просмотре картинок и роликов</h3>
+								</div><!-- Services Right Info Ends -->
+							</div><!-- Services Top Row Ends -->
+						</div>
+						<!-- Services Slider Begins -->
+						<div class="container awesome-container">
+							<!-- Services Bottom Row Begins -->
+							<div class="row">
+								<div class="col-xs-12 animated fadeInUp visible" data-animation="fadeInUp" data-animation-delay="800">
+									<div id="awesome-services" class="owl-carousel app-carousel-slider owl-theme" style="opacity: 1; display: block;">
+										<!-- Item 1 -->
+										<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 4032px; left: 0px; display: block; transition: all 800ms ease 0s; transform: translate3d(-336px, 0px, 0px);"><div class="owl-item" style="width: 336px;"><div class="awesome-services text-center">
+											<!-- Icon -->
+											<span class="simple-icon icon-cloud-upload color-greenalt"></span>
+											<!-- Title -->
+											<h3 class="color-grey text-uppercase text-bold">DATA STORAGE</h3>
+											<!-- Content -->
+											<p class="big-text">Ut labores laoreet petentium vix. Nec cu eripuit alterum, vel cibo laoreeem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus  amet m.</p>
+										</div></div><div class="owl-item" style="width: 336px;"><div class="awesome-services text-center">
+											<!-- Icon -->
+											<span class="simple-icon icon-shield color-greenalt"></span>
+											<!-- Title -->
+											<h3 class="color-grey text-uppercase text-bold">SECURITY</h3>
+											<!-- Content -->
+											<p class="big-text">Ut labores laoreet petentium vix. Nec cu eripuit alterum, vel cibo laoreeem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus  amet m.</p>
+										</div></div><div class="owl-item" style="width: 336px;"><div class="awesome-services text-center">
+											<!-- Icon -->
+											<span class="simple-icon icon-calendar color-greenalt"></span>
+											<!-- Title -->
+											<h3 class="color-grey text-uppercase text-bold">EVENTS &amp; COUNTERS</h3>
+											<!-- Content -->
+											<p class="big-text">Ut labores laoreet petentium vix. Nec cu eripuit alterum, vel cibo laoreeem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus  amet m.</p>
+										</div></div><div class="owl-item" style="width: 336px;"><div class="awesome-services text-center">
+											<!-- Icon -->
+											<span class="simple-icon icon-cloud-upload color-greenalt"></span>
+											<!-- Title -->
+											<h3 class="color-grey text-uppercase text-bold">DATA STORAGE</h3>
+											<!-- Content -->
+											<p class="big-text">Ut labores laoreet petentium vix. Nec cu eripuit alterum, vel cibo laoreeem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus  amet m.</p>											
+										</div></div><div class="owl-item" style="width: 336px;"><div class="awesome-services text-center">
+											<!-- Icon -->
+											<span class="simple-icon icon-shield color-greenalt"></span>
+											<!-- Title -->
+											<h3 class="color-grey text-uppercase text-bold">SECURITY</h3>
+											<!-- Content -->
+											<p class="big-text">Ut labores laoreet petentium vix. Nec cu eripuit alterum, vel cibo laoreeem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus  amet m.</p>											
+										</div></div><div class="owl-item" style="width: 336px;"><div class="awesome-services text-center">
+											<!-- Icon -->
+											<span class="simple-icon icon-calendar color-greenalt"></span>
+											<!-- Title -->
+											<h3 class="color-grey text-uppercase text-bold">EVENTS &amp; COUNTERS</h3>
+											<!-- Content -->
+											<p class="big-text">Ut labores laoreet petentium vix. Nec cu eripuit alterum, vel cibo laoreeem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus  amet m.</p>											
+										</div></div></div></div>
+										<!-- Item 2 -->
+										
+										<!-- Item 3 -->
+										
+										<!-- Item 4 -->                   
+										
+										<!-- Item 5 -->						
+										
+										<!-- Item 6 -->                                
+										                         
+									</div>
+								</div>
+							</div><!-- Services Bottom Row Ends -->
+						</div> 
+					</div>
+					<!-- Services Section Ends -->
+					
+					<!-- Screenshot Section Begins  -->
+                    <div id="app-screen" class="app-screen-section section-padding">
+						<div class="container relative">
+							<!-- Screenshot Top Row Begins -->
+							<div class="row">
+								<!-- Screenshot Right Info Begins -->
+								<div class="col-xs-12 app-right-info pull-right animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="500">
+									<!-- Title -->
+									<h2 class="section-title color-grey"><span class="text-extrabold">НАШИ </span>СКРИНШОТЫ</h2>
+									<!-- Shape Down Arrow -->									
+									<p class="text-center color-grey"><i class="flaticon flaticon-yield gk-triangle-medium"></i></p>	
+									<!-- Description -->								
+									<h3 class="section-msg text-center color-grey">ИКОНКИ НАШЕГО ПРИЛОЖЕНИЯ</h3>									
+								</div><!-- Screenshot Right Info Ends -->
+							</div><!-- Screenshot Top Row Ends -->
+						</div>
+						
+						<!-- Screenshot Carousel Begins -->
+						<div class="container app-container">
+							<div class="row">
+								<div class="col-xs-12 animated fadeInUp visible" data-animation="fadeInUp" data-animation-delay="800">
+									<!-- Carousel Slider Container Begins -->
+									<div id="app-screenshot" class="owl-carousel app-carousel-slider owl-theme" style="opacity: 1; display: block;">
+										<!-- Item 1 -->
+										<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 4032px; left: 0px; display: block; transition: all 0ms ease 0s; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 336px;"><div class="screen-item">
+											<img src="images/screenshot/screen-1.jpg" width="314" height="534" alt="App Screenshot" class="img-responsive">
+										</div></div><div class="owl-item" style="width: 336px;"><div class="screen-item">
+											<img src="images/screenshot/screen-2.jpg" width="314" height="534" alt="App Screenshot" class="img-responsive">
+										</div></div><div class="owl-item" style="width: 336px;"><div class="screen-item">
+											<img src="images/screenshot/screen-3.jpg" width="314" height="534" alt="App Screenshot" class="img-responsive">
+										</div></div><div class="owl-item" style="width: 336px;"><div class="screen-item">
+											<img src="images/screenshot/screen-1.jpg" width="314" height="534" alt="App Screenshot" class="img-responsive">
+										</div></div><div class="owl-item" style="width: 336px;"><div class="screen-item">
+											<img src="images/screenshot/screen-2.jpg" width="314" height="534" alt="App Screenshot" class="img-responsive">
+										</div></div><div class="owl-item" style="width: 336px;"><div class="screen-item">
+											<img src="images/screenshot/screen-3.jpg" width="314" height="534" alt="App Screenshot" class="img-responsive">
+										</div></div></div></div>
+										<!-- Item 2 -->
+										
+										<!-- Item 3 -->
+										
+										<!-- Item 4 -->
+										
+										<!-- Item 5 -->
+										
+										<!-- Item 6 -->
+										
+              						<div class="owl-controls clickable"><div class="owl-buttons"><div class="owl-prev"><i class="fa fa-chevron-left color-grey"></i></div><div class="owl-next"><i class="fa fa-chevron-right color-grey"></i></div></div></div></div><!-- Carousel Slider Container Ends -->
+								</div>
+							</div>
+						</div><!-- Screenshot Carousel Ends -->
+					</div>
+					<!-- Screenshot Section Ends -->				
+					
+					<!-- Pricing Section Begins -->
+					<div id="pricing" class="pricing-section section-padding">
+						<div class="container relative">
+							<!-- Pricing Top Row Begins -->
+                           	<div class="row">									
+								<!-- Pricing Right Info Begins -->
+								<div class="col-xs-12 app-right-info animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="500">
+									 <!-- Title -->
+									 <h2 class="section-title color-grey"><span class="text-extrabold">ПОДПИСКА</span></h2>
+									 <!-- Shape Down Arrow -->         
+									 <p class="text-center color-grey"><i class="flaticon flaticon-yield gk-triangle-medium"></i></p> 
+									 <!-- Description -->
+									 <h3 class="section-msg text-center color-grey">ОДИН РАЗ КУПИТЬ НАШУ ПОДПИСКУ, И ПОСТОЯННО НАСЛАЖДАТЬСЯ НАШИМИ РОЛИКАМИ</h3>
+								</div><!-- Pricing Right Info Ends -->
+							</div>
+						</div>
+						<div class="container pricing-container">
+                            <!-- Pricing Grid Row Begins -->
+                     		<div class="row pricing-grid">
+								<div class="col-xs-12">
+									<!-- Price Table 01 -->
+									<div class="col-md-4 col-sm-4 pricing-item1 animated fadeInLeft visible" data-animation="fadeInLeft" data-animation-delay="500">
+										<div class="pricing-box">
+											<!-- Price Title -->
+											<div class="pricing-title">
+												<h3 class="text-center text-uppercase text-bold color-greenalt">Standard</h3>
+												<div class="price text-center">       
+													<h6 class="color-white text-bold"><span class="symbol color-grey">$</span>125<span class="per-month color-grey">/mo</span></h6>
+												</div>     
+											</div>
+											<!-- Price Table Features -->
+											<ul class="list-unstyled gk-list text-bold color-grey">
+												<li class="no-border"><span class="simple-icon icon-check"></span>БЕСКОНЕЧНЫЙ ПРОСМОТР</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span>ЛУЧШЕЕ КАЧЕСТВО</li>
+												<li class="no-border"><span class="simple-icon icon-check"></span>ПРОСМОТР В ОТДЕЛЬНОМ ОКНЕ</li>
+												<li class="no-border"><span class=""></span></li>
+												<li class="no-border"><span class=""></span></li>
+											</ul>
+										</div>
+									</div>
+									<!-- Price Table 02 -->
+									<div class="col-md-4 col-sm-4 pricing-item2 animated fadeIn visible" data-animation="fadeIn" data-animation-delay="700">
+										<div class="pricing-box">
+											<!-- Price Title -->
+											<div class="pricing-title">
+												<h3 class="text-center text-uppercase text-bold color-greenalt">Personal</h3>
+												<div class="price text-center">       
+													<h6 class="color-white text-bold"><span class="symbol color-grey">$</span>155<span class="per-month color-grey">/mo</span></h6>
+												</div>     
+											</div>
+											<!-- Price Table Features -->
+											<ul class="list-unstyled gk-list text-bold color-grey">
+												<li class="no-border"><span class="simple-icon icon-check"></span>ВСЕ ТОЖЕ САМОЕ ТОЛЬКО С ПЕРЕПЛАТОЙ</li>
+												<li class="no-border"><span class=""></span></li>
+												<li class="no-border"><span class=""></span></li>
+												<li class="no-border"><span class=""></span></li>
+												<li class="no-border"><span class=""></span></li>
+											</ul>    									
+										</div>
+									</div>
+									<!-- Price Table 03 -->                            
+									<div class="col-md-4 col-sm-4 pricing-item3 animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="500">
+										<div class="pricing-box">
+										  <!-- Price Title -->
+											<div class="pricing-title">
+												<h3 class="text-center text-uppercase text-bold color-greenalt">Business</h3>
+												<div class="price text-center">       
+													<h6 class="color-white text-bold"><span class="symbol color-grey">$</span>299<span class="per-month color-grey">/mo</span></h6>
+												</div>     
+											</div>
+											<!-- Price Table Features -->
+											<ul class="list-unstyled gk-list text-bold color-grey">
+												<li class="no-border"><span class="simple-icon icon-check"></span>ПОДДЕРЖИ НАС </li>
+												<li class="no-border"><span class=""></span></li>
+												<li class="no-border"><span class=""></span></li>
+												<li class="no-border"><span class=""></span></li>
+												<li class="no-border"><span class=""></span></li>
+											</ul>   
+										</div>
+									</div>
+								</div>
+                       		</div><!-- Pricing Grid Row Ends -->
+						</div>
+					</div>
+					<!-- Pricing Section Ends -->
+					
+					<!-- Demo Section Begins  -->
+                    <div id="video" class="video-section section-padding">
+						<div class="container">
+							<!-- Demo Top Row Begins -->
+							<div class="row relative">								
+								<div class="col-xs-12 animated fadeInLeft visible" data-animation="fadeInLeft" data-animation-delay="500">
+									<!-- Title -->
+									<h2 class="section-title color-white"><span class="text-extrabold">ПРИМЕР</span>НАШИХ ВИДЕО</h2>
+									<!-- Shape Down Arrow -->
+									<p class="color-white text-center"><i class="flaticon flaticon-yield gk-triangle-medium"></i></p>
+									<!-- Description -->
+									<h3 class="section-msg text-center color-white">ПОСМОТРИТЕ НАШУ РАБОТУ)</h3>												
+								</div>
+							</div><!-- Demo Top Row Ends -->
+							<!-- Video Row Begins -->
+							<div class="row">								
+								<div class="col-xs-12 animated fadeInUp visible" data-animation="fadeInUp" data-animation-delay="800">
+									<!-- Video Container -->
+									<div class="video-bg">
+										<div id="video_container"><span id="controlBar_P2" class="mb_YTVPBar inlinePlayer" style="white-space: nowrap; position: absolute; z-index: 1000;"><div class="buttonBar"><span class="mb_YTVPPlaypause ytpicon">p</span><span class="mb_YTVPMuteUnmute ytpicon">A</span><span class="mb_YTVPTime">01 : 44 / 02 : 24</span><span class="mb_YTVPUrl ytpicon" title="view on YouTube">Y</span><span class="mb_OnlyYT ytpicon">O</span></div><div class="mb_YTVPProgress" style="position: absolute;"><div class="mb_YTVPLoaded" style="position: absolute; left: 0px; width: 100%;"></div><div class="mb_YTVTime" style="position: absolute; left: 0px; width: 725.111px;"></div></div></span><div class="mbYTP_wrapper" id="wrapper_mbYTP_P2" style="position: absolute; z-index: 0; min-width: 100%; min-height: 100%; left: 0px; top: 0px; overflow: hidden; opacity: 1; backface-visibility: hidden; transition-property: opacity; transition-duration: 2000ms;"><iframe id="mbYTP_P2" class="playerBox" style="position: absolute; z-index: 0; width: 1244.96px; height: 753px; top: 0px; left: 0px; overflow: hidden; opacity: 1; margin-top: -121.5px; margin-left: -120.48px;" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="640" height="360" src=""></iframe><div class="YTPOverlay" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"></div></div></div>
+										<!-- Video Player -->
+										<div id="P2" class="player video-container mb_YTVPlayer" data-property="{videoURL:'vdRqcPyB1gw',containment:'#video_container',autoPlay:true, showControls:true, mute:true, startAt:0}" style="background: none;"></div>
+									</div>									
+								</div>
+							</div><!-- Video Row Ends -->
+						</div>						
+					</div>
+					<!-- Demo Section Ends -->				
+					
+					<!-- Download Section Begins -->
+					<div id="download" class="download-section section-padding">
+						<div class="container">
+							<!-- Download Top Right Row Begins -->
+							<div class="row">																								
+								<div class="col-xs-12 animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="500">
+									<!-- Title -->
+									<h2 class="section-title color-grey"><span class="text-extrabold">СКАЧИВАЙТЕ НАШЕ ПРИЛОЖЕНИЕ</span> СЕЙЧАС</h2>
+									<!-- Shape Down Arrow -->
+									<p class="text-center color-grey"><i class="flaticon flaticon-yield gk-triangle-medium"></i></p>
+									<!-- Content -->
+									<h3 class="section-msg text-center color-grey">ВЫБЕРИТЕ СВОЮ ПЛАТФОРМУ<br></h3>  
+								</div>
+							</div><!-- Download Top Right Row Ends -->
+							<!-- Download Content Row Begins -->
+							<div class="row">
+								<!-- Iphone Image -->
+								<div class="col-lg-6 col-md-4 download-left-img animated fadeInLeft visible" data-animation="fadeInLeft" data-animation-delay="500">
+									<img src="data:image/png;base64,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" alt="IPhone Black" class="img-responsive">									
+								</div>
+								<!-- Right Info -->							
+								<div class="col-lg-5 col-md-7 download-right-info animated fadeInDown visible" data-animation="fadeInDown" data-animation-delay="800">
+									<!-- Button -->
+									<div class="download-button">								
+										<a href="#" class="btn gk-download-btn greenalt-btn gk-btn-margin" role="button"><i class="fa fa-apple"></i> Apple User</a>
+										<a href="#" class="btn gk-download-btn red-btn" role="button"><i class="fa fa-android"></i> Android User</a>								
+									</div>
+                                    
+									<!-- Subscribe Form -->
+									<div class="subscribe text-center gk-contact-form">
+										<!-- Title -->
+										<h2 class="section-msg1 text-uppercase color-grey"><span class="text-extrabold">ПОДПИШИСЬ НА НАС</span>!</h2>
+										<!-- Description -->
+										<p></p>
+										<!-- Form -->
+										<div class="subscribe-form">
+											<!-- Form Error or Success Message -->
+											<p class="gk-form-message-subscribe"></p>
+											<form role="form" name="subscribe" class="form-horizontal bv-form" id="subscribe" method="post" action="subscribe.php" novalidate="novalidate">
+												<div class="col-md-12">
+													<!-- Email -->
+													<div class="form-group gk-email has-feedback">
+														<input type="email" placeholder="ВАШ АДЕРС ПОЧТЫ" class="subscribe input-email form-control email text-center" name="subscribe_email" data-bv-field="subscribe_email"><i class="form-control-feedback" data-bv-icon-for="subscribe_email" style="display: none; top: 0px;"></i>
+													<small data-bv-validator="notEmpty" data-bv-validator-for="subscribe_email" class="help-block" style="display: none;"></small><small data-bv-validator="emailAddress" data-bv-validator-for="subscribe_email" class="help-block" style="display: none;"></small></div>
+													<!-- Submit Button -->
+													<div class="gk-input-submit submit">
+														<button type="submit" class="btn gk-submit">ПОДПИСАТЬСЯ</button>
+													</div>
+												</div>                                               
+											<input type="hidden" value=""></form>
+										</div><!-- Form Ends -->
+									</div>
+								</div><!-- Right Info Ends -->
+							</div><!-- Download Content Row Ends -->
+						</div>
+					</div>
+					<!-- Download Section Ends -->
+					
+					<!-- Contact Section Begins -->					
+					<div id="contact-us" class="contact-section section-padding">
+						<div class="container">
+							<div class="row">
+								<!-- Contact Left Info Begins -->
+								<div class="col-xs-12 animated fadeInLeft visible" data-animation="fadeInLeft" data-animation-delay="500">
+									<!-- Title -->
+									<h2 class="section-title color-white"><span class="text-extrabold">КОНТАКТЫНЕ ДАННЫЕ</span></h2>
+									<!-- Shape Down Arrow -->
+									<p class="text-center color-white"><i class="flaticon flaticon-yield gk-triangle-medium"></i></p>
+									<!-- Description -->
+									<h3 class="section-msg text-center color-white">ДАВАЙТЕ СРАЗУ ВАС ЗАРЕГЕСТРИРУЕМ<br></h3>
+								</div>
+								
+								<div class="col-md-6 animated fadeInLeft visible" data-animation="fadeInLeft" data-animation-delay="500">
+									<!-- Contact Form Container Begins -->
+									<p class="gk-form-message"></p>
+									<div class="gk-contact-form container animated fadeInUp visible" data-animation="fadeInUp" data-animation-delay="900">
+										<!-- Form Begins -->
+										<form role="form" name="contactform" class="form-horizontal bv-form" id="contactform" method="post" action="process.php" novalidate="novalidate">
+											<div class="row">
+												<div class="col-sm-12 col-md-12">
+													<div class="container">
+														<div class="row">
+															<!-- Input: Name -->
+															<div class="col-md-6 form-group gk-input-text has-feedback">																											
+																<input type="text" name="contact_name" class="input-name form-control" placeholder="ИМЯ" data-bv-field="contact_name"><i class="form-control-feedback" data-bv-icon-for="contact_name" style="display: none; top: 0px;"></i>																
+															<small data-bv-validator="notEmpty" data-bv-validator-for="contact_name" class="help-block" style="display: none;"></small></div>
+															<!-- Input: Email -->
+															<div class="col-md-6 form-group gk-email pull-right has-feedback">																							
+																<input type="ПОЧТА" name="contact_email" class="input-email form-control email" placeholder="ПОЧТА" data-bv-field="contact_email"><i class="form-control-feedback" data-bv-icon-for="contact_email" style="display: none; top: 0px;"></i>																
+															<small data-bv-validator="notEmpty" data-bv-validator-for="contact_email" class="help-block" style="display: none;"></small><small data-bv-validator="emailAddress" data-bv-validator-for="contact_email" class="help-block" style="display: none;"></small></div>
+														</div>
+													</div>
+													<div class="form-group has-feedback">
+														<!-- Input: Textarea -->
+														<div class="col-md-12 gk-textarea-message">															
+															<textarea name="СООБЩЕНИЕ" class="textarea-message form-control" rows="4" cols="25" placeholder="СООБЩЕНИЕ" data-bv-field="contact_message"></textarea><i class="form-control-feedback" data-bv-icon-for="contact_message" style="display: none; top: 0px;"></i>
+														<small data-bv-validator="notEmpty" data-bv-validator-for="contact_message" class="help-block" style="display: none;"></small></div>														
+													</div>													
+													<!-- Submit Button -->
+													<div class="gk-input-submit submit">
+														<button type="submit" class="btn gk-submit">ОТПРАВИТЬ</button>										
+													</div>
+												</div>
+											</div>
+										<input type="hidden" value=""></form><!-- Form Ends -->
+									</div><!-- Contact Form Container Ends -->
+								</div><!-- Contact Left Info Ends -->
+								
+								<!-- Contact Right Info Begins -->
+								<div class="col-md-4 pull-right animated fadeInRight visible" data-animation="fadeInRight" data-animation-delay="500">
+									<!-- Contact Info Begins -->
+									<div class="container contact-info">										
+										<div class="row">
+											<!-- Row 1 -->
+											<div class="col-xs-12 contact-row">
+												<!-- Icon -->
+												<p><span class="simple-icon icon-call-end color-white"></span></p>
+												<!-- Title -->
+												<p class="bold-italic color-white">Phone</p>
+												<!-- Content -->
+												<p class="light-italic color-white">8(800)555-35-35</p>
+											</div>
+											<!-- Row 2 -->
+											<div class="col-xs-12 contact-row">
+												<!-- Icon -->
+												<p><span class="simple-icon icon-envelope color-white"></span></p>
+												<!-- Title -->
+												<p class="bold-italic color-white">Email us</p>
+												<!-- Content -->
+												<p class="light-italic color-white">hzshtopisat@gmail.com</p>
+											</div>
+											<!-- Row 3 -->
+											
+										</div>
+									</div><!-- Contact Info Begins -->
+								</div><!-- Contact Right Info Ends -->
+							</div>
+						</div>
+					</div>
+					<!-- Contact Section Ends -->
+				
+		<!-- Layout Ends -->
+		
+		<!-- Footer Begins -->
+		<div id="footer" class="footer-section">
+			<div class="footer-bg">
+				<div class="container">
+					<div class="row">
+						<!-- Footer Content -->
+						<div class="center-block">
+							<p class="text-center">© 2014 GeekApp 
+								<span class="footer-social-icon">
+									<a href="#" class="gk-facebook"><i class="fa fa-facebook"></i></a>
+									<a href="#" class="gk-twitter"><i class="fa fa-twitter"></i></a>
+								</span>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div><!-- Footer Ends -->
+		
+	</div><!-- Wrapper Ends -->
+		
+	<!-- Color Switcher -->
+	<section id="theme-panel" class="close-theme-panel">
+		<!--Panel Button -->
+		<a class="panel-button dark"><i class="fa fa-cog fa-spin"></i></a>
+		<div class="segment">
+			<h4 class="uppercase no-padding bold-italic">Color Switcher</h4>
+		</div>		
+		<!-- Colors -->
+		<div class="segment">			
+			<a title="" class="switcher color1-bg" href="../color-1/"></a>
+			<a title="" class="switcher color2-bg" href="../color-2/"></a>
+			<a title="" class="switcher color3-bg" href="../color-3/"></a>	
+			<a title="" class="switcher color4-bg" href="../color-4/"></a>		
+		</div>
+</section><!-- End Color Switcher -->
+	
+	<!-- Script Begins -->
+	<script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/ec0ced91/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="http://www.youtube.com/player_api" id="YTAPI"></script><script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<!-- Form Validation -->
+	<script type="text/javascript" src="js/bootstrapValidator.min.js"></script>
+	<!-- Sticky Header -->
+	<script type="text/javascript" src="js/jquery.sticky.js"></script>
+	<!-- Carousel Slider -->
+	<script type="text/javascript" src="js/carousel.min.js"></script>	
+	<!-- Animation and Counter -->
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>	
+	<script type="text/javascript" src="js/jquery.appear.js"></script>
+	<script type="text/javascript" src="js/jquery.countTo.js"></script>
+	<!-- Simple Line Icons Font -->
+	<!--[if lte IE 7]><script src="js/icons-lte-ie7.js"></script><![endif]-->
+	<!-- Video -->
+	<script type="text/javascript" src="js/jquery.mb.YTPlayer.js"></script>
+	<!-- Custom -->
+	<script type="text/javascript" src="js/custom.js"></script>	
+	<!-- Script Ends -->
+
+</body></html>
